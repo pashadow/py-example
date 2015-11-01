@@ -1,3 +1,3 @@
 #!/bin/sh
-r test.r
-
+python --version
+python test.py
