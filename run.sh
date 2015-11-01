@@ -1,3 +1,3 @@
 #!/bin/sh
-python --version
-python test.py
+python --version >> result.dat
+python test.py >> result.dat
