@@ -1,2 +1,2 @@
 #!/bin/sh
-python --version >> result.dat
+python --version
